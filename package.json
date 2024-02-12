@@ -1,14 +1,14 @@
 {
   "name": "assignment-1",
   "version": "1.0.0",
-  "description": "skill-labs 5th sem",
+  "description": "skill-lab assignment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "srajankumar",
+  "author": "shivani",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.1",

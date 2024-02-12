@@ -8,7 +8,7 @@ app.use("/auth", authRoutes);
 app.use("/blogs", blogRoutes);
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send("hello world!");
 });
 
 const PORT = process.env.PORT || 3000;
